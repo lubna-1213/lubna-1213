@@ -137,7 +137,6 @@ class Lubna:
 ## 📜 Certifications & Achievements
 
 <div align="center">
-
 | 🏅 Certification | 🏢 Issuer | 📌 Status |
 |-----------------|----------|---------|
 | 🔴 Penetration Testing Workshop | Protect Lab | ✅ Completed |
