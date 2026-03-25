@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:00ff41,100:1a1a2e&height=240&section=header&text=Lubna%20Basharat&fontSize=55&fontColor=ffffff&animation=blink&fontAlignY=38&desc=☕%20Cybersecurity%20Engineer%20%7C%20AI%20Security%20%7C%20Ethical%20Hacker&descAlignY=60&descSize=19&descColor=00ff88" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:00ff41,100:1a1a2e&height=240&section=header&text=Lubna%20Basharat&fontSize=55&fontColor=ffffff&animation=blink&fontAlignY=38&desc=☕%20Cybersecurity%20%7C%20AI%20Security%20%7C%20Ethical%20Hacker&descAlignY=62&descSize=18&descColor=00ff88" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@ class Lubna:
         self.name = "Lubna Basharat"
         self.uni = "FAST NUCES Islamabad"
         self.degree = "BS Cybersecurity • 2026"
-        self.vibes = ["Pentesting", "AI Security", "Digital Forensics", "DevSecOps"]
+        self.vibes = ["Pentesting", "AI Security", "Forensics", "DevSecOps"]
         self.building = "Accenra — AI IAM Platform"
         self.fuel = "☕ Late-night coffee & Wireshark"
         self.fun_fact = "I debug at 2am and it somehow always works 🌙"
@@ -85,7 +85,7 @@ class Lubna:
 
 
 
-ProjectVibesStackAccenraAI IAM + NLP ChatbotFastAPI · React · OAuthFilmiceptionAI Movie AssistantFlask · NLP · PyQt5Vuln ScannerAuto CVSS + ReportsPython · XGBoostTweetBotMalicious Tweet DetectorScikit-learn · TF-IDFVideo TriageForensics + Face RecOpenCV · TkinterSecure ChatE2E RSA EncryptionPython · Cryptography
+ProjectVibesStackAccenraAI IAM + NLP ChatbotFastAPI · React · OAuthFilmiceptionAI Movie AssistantFlask · NLPVuln ScannerAuto CVSS ScoringPython · XGBoostTweetBotMalicious Tweet DetectorScikit-learnVideo TriageForensics + Face RecOpenCVSecure ChatE2E RSA EncryptionPython · Sockets
 
 📊 GitHub Stats
 
@@ -103,10 +103,10 @@ ProjectVibesStackAccenraAI IAM + NLP ChatbotFastAPI · React · OAuthFilmiceptio
 
 🌟 Currently
 Bash$ cat ~/.status
-🔭 Building Accenra (Final Year Project)
+🔭 Building Accenra (Final Year)
 🌱 Learning AWS Security + Reverse Engineering
 ☕ Fuelled by coffee & packets
-🎯 Targeting Cyber / ML Roles — 2026
+🎯 Cyber / ML Roles 2026
 📍 Islamabad, Pakistan
 
 🤝 Connect With Me
@@ -120,4 +120,4 @@ Bash$ cat ~/.status
   <img src="https://capsule-render.vercel.app/api?type=soft&#x26;color=0:0d1117,50:00ff41,100:1a1a2e&#x26;height=100&#x26;section=footer">
   "Security is not a product, it's a process." 🔐
 
-  Made with ❤️, ☕, and way too many late nights
+  Made with ❤️, ☕, and late nights
