@@ -105,20 +105,20 @@ whoami = {
 ---
 
 ## certifications
-
+ 
 `Penetration Testing` — Protect Lab &nbsp;|&nbsp;
 `Digital Forensics` — Belkasoft &nbsp;|&nbsp;
 `Pentest++` — Cybrary &nbsp;|&nbsp;
 `Recon & Enumeration` — Cybrary &nbsp;|&nbsp;
 `AWS Cloud` — *in progress*
-
+ 
 ---
-
+ 
 ## experience
-
+ 
 **Information Security Intern** &nbsp;·&nbsp; AKSA Solutions &nbsp;·&nbsp; `Jul–Sep 2025`
 exploits · network security · vulnerability analysis · defensive techniques
-
+ 
 ---
 
 <div align="center">
