@@ -8,7 +8,6 @@
 </div>
 
 ---
-
 ## 👩‍💻 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -28,7 +27,10 @@ class Lubna:
         self.building = "Accenra — AI-Powered IAM Platform"
         self.learning = ["AWS Security", "Reverse Engineering"]
         self.goal = "Cybersecurity / ML Engineer"
+```
+
 <br clear="right"/>
+
 🛠️ Tech Stack
 <div align="center">
 🔐 Security & Networking
