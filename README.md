@@ -28,17 +28,50 @@ whoami = {
 
 ## stack
 
-**security**
-`Kali` `Metasploit` `Burp Suite` `Wireshark` `Nmap` `Snort`
+**🔐 security**
 
-**ai / ml**
-`Python` `Scikit-learn` `TensorFlow` `OpenCV` `NLTK` `XGBoost`
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
-**web & devops**
-`React` `FastAPI` `Flask` `Docker` `Jenkins` `Firebase`
+**🤖 ai / ml**
 
-**langs**
-`Python` `C++` `C#` `SQL` `Assembly` `JavaScript`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**🌐 web & backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**🗄️ databases & devops**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**💻 languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
 
 ---
 
@@ -47,7 +80,7 @@ whoami = {
 | project | what it does |
 |--------|-------------|
 | 🔑 **Accenra** | AI-driven IAM — NLP chatbot + Active Directory · `FastAPI` `React` `OAuth` |
-| 🛡️ **[Cybersecurity Labs](https://github.com/lubna-1213/cybersecurity-labs)** | EternalBlue exploit, DoS attacks, Wireshark + Snort analysis · `Metasploit` `Kali` |
+| 🛡️ **[Cybersecurity Labs](https://github.com/lubna-1213/cybersecurity-labs)** | EternalBlue exploit, DoS attacks, Wireshark + Snort · `Metasploit` `Kali` |
 | 🎬 **[Filmiception](https://github.com/lubna-1213/Filmiception)** | AI movie assistant — genre prediction + multilingual narration · `Flask` `NLP` |
 | 🔍 **Vuln Assessment Tool** | Auto-scanner with CVSS scoring + mitigation reports · `SBERT` `XGBoost` |
 | 📹 **Video Triage Tool** | Facial recognition + metadata extraction for forensics · `OpenCV` `Tkinter` |
