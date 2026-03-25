@@ -77,7 +77,7 @@ whoami = {
 ---
 
 ## projects
-
+ 
 | project | what it does |
 |--------|-------------|
 | 🔑 **Accenra** | AI-driven IAM — NLP chatbot + Active Directory · `FastAPI` `React` `OAuth` |
@@ -86,7 +86,7 @@ whoami = {
 | 🔍 **Vuln Assessment Tool** | Auto-scanner with CVSS scoring + mitigation reports · `SBERT` `XGBoost` |
 | 📹 **Video Triage Tool** | Facial recognition + metadata extraction for forensics · `OpenCV` `Tkinter` |
 | 🐦 **TweetBot** | Malicious tweet classifier using TF-IDF + ML · `Scikit-learn` `NLP` |
-
+ 
 ---
 
 ## stats
