@@ -1,126 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A001F,100:9F00FF&height=150&section=header&text=Lubna%20Basharat&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=55" alt="Lubna Basharat - Purple Hacker Header"/>
-  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6a00ff,100:00f0ff&height=200&section=header&text=Lubna%20Basharat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20AI%2FML%20Security%20%7C%20Ethical%20Hacker&descAlignY=60&descColor=c084fc"/>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Hacking GIF"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=750&lines=🔐+Cybersecurity+Student+%40+FAST+NUCES;🤖+AI+%2F+ML+%2B+Security+Builder;🛡️+Pentesting+%7C+Digital+Forensics;☁️+DevSecOps+%7C+Network+Security;🚀+Open+to+Cybersecurity+%26+ML+Roles+2026"/>
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
-whoami = {
-  "name"    : "Lubna Basharat",
-  "degree"  : "BS Cybersecurity @ FAST NUCES '26",
-  "doing"   : "Accenra — AI-Powered IAM Platform",
-  "into"    : ["Pentesting", "Forensics", "AI/ML Sec"],
-  "seeking" : "Cybersecurity / ML Role — 2026",
-}
-
-
-
+class Lubna:
+    def __init__(self):
+        self.name = "Lubna Basharat"
+        self.degree = "BS Cybersecurity @ FAST NUCES (2026)"
+        self.focus = [
+            "Penetration Testing",
+            "Digital Forensics",
+            "AI/ML Security",
+            "Network Security",
+            "Vulnerability Assessment"
+        ]
+        self.building = "Accenra — AI-Powered IAM Platform"
+        self.learning = ["AWS Security", "Reverse Engineering"]
+        self.goal = "Cybersecurity / ML Engineer"
+<br clear="right"/>
 🛠️ Tech Stack
+<div align="center">
+🔐 Security & Networking
 
-🔐 Security & Hacking
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&#x26;logo=kali-linux&#x26;logoColor=white" alt="Kali Linux">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&#x26;logo=burp-suite&#x26;logoColor=white" alt="Burp Suite">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&#x26;logoColor=white" alt="Metasploit">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&#x26;logo=wireshark&#x26;logoColor=white" alt="Wireshark">
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&#x26;logoColor=white" alt="Nmap">
+Kali Linux · Metasploit · Wireshark · Nmap · Burp Suite · Snort · OWASP
+
 🤖 AI / ML
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&#x26;logo=tensorflow&#x26;logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&#x26;logo=scikit-learn&#x26;logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&#x26;logo=opencv&#x26;logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&#x26;logoColor=white" alt="XGBoost">
-🌐 Web & Backend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&#x26;logo=react&#x26;logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&#x26;logo=fastapi&#x26;logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&#x26;logo=flask&#x26;logoColor=white" alt="Flask">
-🗄️ Databases & DevSecOps
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&#x26;logo=docker&#x26;logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&#x26;logo=mysql&#x26;logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&#x26;logo=amazon-aws&#x26;logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&#x26;logo=linux&#x26;logoColor=black" alt="Linux">
 
+Python · Scikit-learn · OpenCV · NLP · XGBoost · TensorFlow
 
+🌐 Backend & Systems
+
+FastAPI · Flask · React · REST APIs
+
+🗄️ DevOps & Cloud
+
+Docker · Git · Linux · AWS
+
+💻 Languages
+
+C++ · C# · Python · SQL · Assembly
+
+</div>
 🚀 Featured Projects
-(Recruiter-first glance: what I built, why it matters, live links where available)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🔑 ProjectWhat it does (quick value)Core Stack🔑 AccenraAI-powered IAM platform with NLP chatbot + Active Directory integration. Automates secure access for enterprises.FastAPI · React · OAuth · FreeIPA🛡️ Cybersecurity LabsBuilt & exploited real attacks (EternalBlue, DoS) + analyzed traffic with Wireshark/Snort on Kali.Kali · Metasploit · Wireshark · Snort🎬 FilmiceptionAI movie assistant — predicts genre, translates & narrates in multiple languages.Flask · NLP · PyQt5🔍 Vuln Assessment ToolAuto-scans vulnerabilities, scores risk with CVSS & generates mitigation reports.Python · SBERT · XGBoost📹 Video Triage ToolForensic tool: facial recognition + metadata extraction for digital evidence.OpenCV · Tkinter🐦 TweetBotReal-time malicious tweet classifier using NLP + ML (TF-IDF).Scikit-learn · NLP
-
-
+<div align="center">
+🔒 Project	🚀 What it does	⚡ Tech
+🔑 Accenra — AI IAM Platform	NLP-powered admin chatbot automating identity & access management with Active Directory + OAuth	FastAPI · React · FreeIPA · OAuth
+🛡️ Vulnerability Assessment Tool	Automated security scanner with CVSS scoring + ML-based risk prioritization & mitigation reports	Python · SBERT · XGBoost
+📹 Video Forensics Tool	Facial recognition + metadata extraction for digital investigations and evidence analysis	OpenCV · Tkinter
+🐦 TweetBot (Malicious Tweet Detector)	NLP classifier detecting malicious tweets using TF-IDF + supervised ML	Scikit-learn · NLP
+🎬 Filmiception	AI movie assistant with genre prediction, translation & multilingual narration	Flask · NLP
+🧪 Cybersecurity Labs	Hands-on exploitation: EternalBlue, DoS attacks, packet analysis & IDS (Snort)	Kali · Metasploit
+</div>
 📊 GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=lubna-1213&show_icons=true&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubna-1213&layout=compact&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=ffffff"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lubna-1213&hide_border=true&background=0d0221&stroke=c084fc&ring=c084fc&fire=00f0ff&currStreakLabel=c084fc&sideLabels=ffffff&dates=888888"/> </div>
+🧠 Current Status
+> building   Accenra (AI IAM Platform)
+> learning   AWS Security + Reverse Engineering
+> exploring  AI in Cyber Defense
+> practicing Network Exploitation & Defense
+> status     open to roles (2026)
+📜 Certifications
+Penetration Testing — Protect Lab
+Digital Forensics — Belkasoft
+Pentest++ — Cybrary
+Recon & Enumeration — Cybrary
+AWS Cloud — In Progress
+💼 Experience
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lubna-1213&#x26;show_icons=true&#x26;hide_border=true&#x26;bg_color=000000&#x26;title_color=9F00FF&#x26;icon_color=9F00FF&#x26;text_color=ffffff&#x26;count_private=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubna-1213&#x26;layout=compact&#x26;hide_border=true&#x26;bg_color=000000&#x26;title_color=9F00FF&#x26;text_color=ffffff">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lubna-1213&#x26;hide_border=true&#x26;background=000000&#x26;stroke=9F00FF&#x26;ring=9F00FF&#x26;fire=9F00FF&#x26;currStreakLabel=9F00FF&#x26;sideLabels=ffffff&#x26;dates=555555">
-  <img src="https://raw.githubusercontent.com/lubna-1213/lubna-1213/output/github-contribution-grid-snake-dark.svg">
+🔐 Information Security Intern — AKSA Solutions
+July 2025 – September 2025
 
-
-🏆 Certifications & Experience
-Certifications
-Penetration Testing — Protect Lab | Digital Forensics — Belkasoft | Pentest++ — Cybrary | Recon & Enumeration — Cybrary | AWS Cloud — in progress
-Experience
-Information Security Intern · AKSA Solutions · Jul–Sep 2025
-
-Hands-on exploits, network security, vulnerability analysis & defensive techniques.
-
-
-🤝 Let's Network
-
-  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-  
-  
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Gmail">
-  
-  
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
-  
+Performed vulnerability analysis & exploitation
+Worked on network security and defense techniques
+Hands-on experience with real-world attack scenarios
+🤝 Connect
+<div align="center">
 
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&#x26;color=0:0A001F,100:9F00FF&#x26;height=80&#x26;section=footer">
-  
 
-  "Security is not a product, it's a process." 🔐
 
-  Made with ❤️ and ☕ by Lubna
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6a00ff,100:00f0ff&height=100&section=footer"/> </div> <div align="center">
+
+"Break. Understand. Secure. Repeat." 🔐
+
+</div> ```
