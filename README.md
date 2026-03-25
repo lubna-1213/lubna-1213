@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2d1b4e,50:a084ca,100:f5ebe0&height=180&section=header&text=Lubna%20Basharat&fontSize=46&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff41&height=150&section=header&text=Lubna%20Basharat&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=55" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=securing+systems+%7C+breaking+things+ethically;AI+%2B+Security+%3D+my+stack;FAST+NUCES+%7C+Cybersecurity+2026;open+to+work+%E2%86%92+islamabad+%2F+remote)](https://git.io/typing-svg)
 
 </div>
-
-<img align="right" src="https://i.pinimg.com/originals/6e/1b/9c/6e1b9c7d4b9a4a7b91d7f7c6b0a4b0f4.gif" width="260"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=A084CA&width=600&lines=🔐+Cybersecurity+%2B+AI+Builder;🛡️+Ethical+Hacker;🚀+Open+to+Roles+2026"/>
->
 
 ---
 
@@ -77,7 +76,7 @@ whoami = {
 ---
 
 ## projects
- 
+
 | project | what it does |
 |--------|-------------|
 | 🔑 **Accenra** | AI-driven IAM — NLP chatbot + Active Directory · `FastAPI` `React` `OAuth` |
@@ -86,39 +85,39 @@ whoami = {
 | 🔍 **Vuln Assessment Tool** | Auto-scanner with CVSS scoring + mitigation reports · `SBERT` `XGBoost` |
 | 📹 **Video Triage Tool** | Facial recognition + metadata extraction for forensics · `OpenCV` `Tkinter` |
 | 🐦 **TweetBot** | Malicious tweet classifier using TF-IDF + ML · `Scikit-learn` `NLP` |
- 
+
 ---
 
 ## stats
- 
+
 <div align="center">
- 
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=lubna-1213&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubna-1213&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff"/>
- 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lubna-1213&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&dates=555555"/>
- 
+
 <img src="https://raw.githubusercontent.com/lubna-1213/lubna-1213/output/github-contribution-grid-snake-dark.svg"/>
- 
+
 </div>
- 
+
 ---
 
 ## certifications
- 
+
 `Penetration Testing` — Protect Lab &nbsp;|&nbsp;
 `Digital Forensics` — Belkasoft &nbsp;|&nbsp;
 `Pentest++` — Cybrary &nbsp;|&nbsp;
 `Recon & Enumeration` — Cybrary &nbsp;|&nbsp;
 `AWS Cloud` — *in progress*
- 
+
 ---
- 
+
 ## experience
- 
+
 **Information Security Intern** &nbsp;·&nbsp; AKSA Solutions &nbsp;·&nbsp; `Jul–Sep 2025`
 exploits · network security · vulnerability analysis · defensive techniques
- 
+
 ---
 
 <div align="center">
