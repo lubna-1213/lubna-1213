@@ -134,21 +134,7 @@ class Lubna:
 
 ---
 
-## 📜 Certifications & Achievements
 
-<div align="center">
-  
-| 🏅 Certification | 🏢 Issuer | 📌 Status |
-|-----------------|----------|---------|
-| 🔴 Penetration Testing Workshop | Protect Lab | ✅ Completed |
-| 🔬 Digital Forensics | Belkasoft | ✅ Completed |
-| ☁️ AWS Cloud Practitioner | Amazon | 🔄 In Progress |
-| ☁️ AWS Cloud Security | Amazon | 🔄 In Progress |
-| 🎯 Pentest++ | Cybrary | ✅ Completed |
-| 🔎 Reconnaissance & Enumeration | Cybrary | ✅ Completed |
-| 🖥️ C++ Programming Internship | CODSOFT | ✅ Completed |
-
-</div>
 
 ---
 
@@ -162,19 +148,8 @@ class Lubna:
 
 ---
 
-## 🌙 Currently
 
-```bash
-$ cat current_status.txt
 
-🔭 Building  → Accenra AI-Powered IAM Platform (Final Year Project)
-🌱 Learning  → AWS Security + Reverse Engineering Challenges
-🎯 Target    → Cybersecurity / ML Role — 2026
-🏆 Activity  → NASCON'26 Reverse Engineering Track
-📍 Location  → Islamabad, Pakistan
-```
-
----
 
 ## 🤝 Connect With Me
 
